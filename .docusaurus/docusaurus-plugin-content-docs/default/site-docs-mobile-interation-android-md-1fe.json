@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mobile-interation/Android",
+  "id": "mobile-interation/Android",
+  "title": "Android Interation",
+  "description": "Follow this step you will build demo of Ringer Android app",
+  "source": "@site/docs/mobile-interation/Android.md",
+  "sourceDirName": "mobile-interation",
+  "slug": "/mobile-interation/Android",
+  "permalink": "/docs/mobile-interation/Android",
+  "draft": false,
+  "editUrl": "https://github.com/RingerInteractive/docs/mobile-interation/Android.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mobile Interation",
+    "permalink": "/docs/category/mobile-interation"
+  },
+  "next": {
+    "title": "iOS Interation",
+    "permalink": "/docs/mobile-interation/iOS"
+  }
+}

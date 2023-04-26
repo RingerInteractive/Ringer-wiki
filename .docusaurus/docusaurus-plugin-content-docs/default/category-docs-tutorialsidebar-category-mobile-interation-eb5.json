@@ -1,0 +1,15 @@
+{
+  "title": "Mobile Interation",
+  "slug": "/category/mobile-interation",
+  "permalink": "/docs/category/mobile-interation",
+  "navigation": {
+    "previous": {
+      "title": "Admin Portal Guide",
+      "permalink": "/docs/admin-portal-guide/Android"
+    },
+    "next": {
+      "title": "Android Interation",
+      "permalink": "/docs/mobile-interation/Android"
+    }
+  }
+}

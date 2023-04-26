@@ -1,0 +1,15 @@
+{
+  "title": "Admin Portal Guide",
+  "slug": "/category/admin-portal-guide",
+  "permalink": "/docs/category/admin-portal-guide",
+  "navigation": {
+    "previous": {
+      "title": "Adding Firebase server key",
+      "permalink": "/docs/admin-portal-setup/add-server-key-to-ringer"
+    },
+    "next": {
+      "title": "Admin Portal Guide",
+      "permalink": "/docs/admin-portal-guide/Android"
+    }
+  }
+}

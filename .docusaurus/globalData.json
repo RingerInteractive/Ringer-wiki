@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "admin-portal-guide/Android",
+              "path": "/docs/admin-portal-guide/Android",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin-portal-setup/add-server-key-to-ringer",
+              "path": "/docs/admin-portal-setup/add-server-key-to-ringer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "admin-portal-setup/create-firebase-token",
+              "path": "/docs/admin-portal-setup/create-firebase-token",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mobile-interation/Android",
+              "path": "/docs/mobile-interation/Android",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mobile-interation/iOS",
+              "path": "/docs/mobile-interation/iOS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/admin-portal-firebase-setup",
+              "path": "/docs/category/admin-portal-firebase-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/admin-portal-guide",
+              "path": "/docs/category/admin-portal-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mobile-interation",
+              "path": "/docs/category/mobile-interation",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Admin Portal FireBase Setup",
+  "description": "Admin Portal FireBase Setup",
+  "slug": "/category/admin-portal-firebase-setup",
+  "permalink": "/docs/category/admin-portal-firebase-setup",
+  "navigation": {
+    "previous": {
+      "title": "Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Create Firbase Token",
+      "permalink": "/docs/admin-portal-setup/create-firebase-token"
+    }
+  }
+}

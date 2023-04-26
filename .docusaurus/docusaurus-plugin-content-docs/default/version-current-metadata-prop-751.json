@@ -1,0 +1,115 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Admin Portal FireBase Setup",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create Firbase Token",
+            "href": "/docs/admin-portal-setup/create-firebase-token",
+            "docId": "admin-portal-setup/create-firebase-token"
+          },
+          {
+            "type": "link",
+            "label": "Adding Firebase server key",
+            "href": "/docs/admin-portal-setup/add-server-key-to-ringer",
+            "docId": "admin-portal-setup/add-server-key-to-ringer"
+          }
+        ],
+        "href": "/docs/category/admin-portal-firebase-setup"
+      },
+      {
+        "type": "category",
+        "label": "Admin Portal Guide",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Admin Portal Guide",
+            "href": "/docs/admin-portal-guide/Android",
+            "docId": "admin-portal-guide/Android"
+          }
+        ],
+        "href": "/docs/category/admin-portal-guide"
+      },
+      {
+        "type": "category",
+        "label": "Mobile Interation",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Android Interation",
+            "href": "/docs/mobile-interation/Android",
+            "docId": "mobile-interation/Android"
+          },
+          {
+            "type": "link",
+            "label": "iOS Interation",
+            "href": "/docs/mobile-interation/iOS",
+            "docId": "mobile-interation/iOS"
+          }
+        ],
+        "href": "/docs/category/mobile-interation"
+      }
+    ]
+  },
+  "docs": {
+    "admin-portal-guide/Android": {
+      "id": "admin-portal-guide/Android",
+      "title": "Admin Portal Guide",
+      "description": "Follow this step you will build demo of Ringer Android app",
+      "sidebar": "tutorialSidebar"
+    },
+    "admin-portal-setup/add-server-key-to-ringer": {
+      "id": "admin-portal-setup/add-server-key-to-ringer",
+      "title": "Adding Firebase server key",
+      "description": "1. Visit https://console.firebase.google.com/ and log in with your desired associate",
+      "sidebar": "tutorialSidebar"
+    },
+    "admin-portal-setup/create-firebase-token": {
+      "id": "admin-portal-setup/create-firebase-token",
+      "title": "Create Firbase Token",
+      "description": "You should have a google account and create Firebase Token first",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Intro",
+      "description": "Let's discover Ringer Interactive in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "mobile-interation/Android": {
+      "id": "mobile-interation/Android",
+      "title": "Android Interation",
+      "description": "Follow this step you will build demo of Ringer Android app",
+      "sidebar": "tutorialSidebar"
+    },
+    "mobile-interation/iOS": {
+      "id": "mobile-interation/iOS",
+      "title": "iOS Interation",
+      "description": "Follow this step you will build demo of Ringer iOS app",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

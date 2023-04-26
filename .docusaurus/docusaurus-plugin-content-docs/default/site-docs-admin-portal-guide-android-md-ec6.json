@@ -1,0 +1,27 @@
+{
+  "unversionedId": "admin-portal-guide/Android",
+  "id": "admin-portal-guide/Android",
+  "title": "Admin Portal Guide",
+  "description": "Follow this step you will build demo of Ringer Android app",
+  "source": "@site/docs/admin-portal-guide/Android.md",
+  "sourceDirName": "admin-portal-guide",
+  "slug": "/admin-portal-guide/Android",
+  "permalink": "/docs/admin-portal-guide/Android",
+  "draft": false,
+  "editUrl": "https://github.com/RingerInteractive/docs/admin-portal-guide/Android.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Admin Portal Guide",
+    "permalink": "/docs/category/admin-portal-guide"
+  },
+  "next": {
+    "title": "Mobile Interation",
+    "permalink": "/docs/category/mobile-interation"
+  }
+}
