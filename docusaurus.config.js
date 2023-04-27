@@ -88,5 +88,13 @@ const config = {
       },
     }),
 };
-
+module.exports = {
+  // ...
+  url: 'https://ringer-wiki.github.io', // Your website URL
+  baseUrl: '/',
+  projectName: 'Ringer-wiki.github.io',
+  organizationName: 'RingerInteractive',
+  trailingSlash: false,
+  // ...
+};
 module.exports = config;
