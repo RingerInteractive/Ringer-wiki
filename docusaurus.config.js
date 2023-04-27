@@ -3,11 +3,14 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
+const organizationName = "RingerInteractive";
+const projectName = "ringer-wiki";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ringer Interactive',
   tagline: 'Full-Screen Branded Calling Ensures Customers Never Miss Your Call',
+  url: 'https://${organizationName}.github.io',
+  baseUrl: '/${projectName}/',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
