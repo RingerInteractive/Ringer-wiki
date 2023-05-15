@@ -2,32 +2,32 @@
 sidebar_position: 1
 ---
 
-# Android Interation
+# Android Integration
 :::tip My tip
-Follow this step you will build demo of Ringer Android app
+Follow this step by step guide to build the demo app for Ringer Interactive on Android
 :::
 
 
-## Precondition 
+## Requirements 
 
-##### 1. Minimum SDK Version Supported is 7 Nouget
+##### 1. Minimum SDK Version Supported is 7 Nougat
 ##### 2. You have to use Hilt (Dependency Injection) to use this SDK
 
 
-## How to integrate SDK in your application
+## How to integrate the SDK in your application
 
 ### Step 1
 Init SDK in your main application 
-token your token when register tenantID this feild is require  
-app_name you application name optional  
-phone_number your phone optional 
+token - your token when register tenantID this feild is require  
+app_name - your application name optional  
+phone_number - your phone optional 
 ```
- InitializeToken(this, token,app_name, phone_number)
+ InitializeToken(this, token, app_name, phone_number)
 ```
 
 
 ### Step 2
-If you are already using the Firebase you can use the following code.
+If you are already using Firebase then you can use the following code.
 Add the function below in the FirebaseMessagingService
 R.color.bg_color background notification color
 R.mipmap.ic_launcher notification icon
@@ -46,7 +46,7 @@ R.string.app_name noitficaiton title
 
 
 ### Step 3
-Now add below line in your project level build
+Now add the following line to your project level build
 
 ```
 	allprojects {
@@ -141,10 +141,10 @@ This step is for the permissions you need granted.
 
 
 ## How to use sample app
-##### 1.Download lasted [Releases](https://github.com/RingerInteractive/Ringer-SDK-Sample-App-Android/raw/main/Ringer-Sample-Release.apk) and install on your device
+##### 1.Download the latest [Releases](https://github.com/RingerInteractive/Ringer-SDK-Sample-App-Android/raw/main/Ringer-Sample-Release.apk) and install on your device
 ##### 2.Build APK from [Ringer-Sample-App](https://github.com/RingerInteractive/Ringer-SDK-Sample-App)
 
-##### After install you should grant those required permission 
+##### After install you should grant the required permissions
 1. Default call handler
 ```YourActivity
   offerReplacingDefaultDialer(this, applicationContext.packageName, REQUEST_CODE_SDK)
@@ -174,4 +174,4 @@ This step is for the permissions you need granted.
 
   ![login](./../img/main_screen.png)
 
-5. Open Admin portal with provide account and make phone call to test 
+5. Open the Ringer Interactive Admin portal with your provided account information and make a phone call to test 
