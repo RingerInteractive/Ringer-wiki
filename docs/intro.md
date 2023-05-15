@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **Ringer Interactive in less than 5 minutes**!
+This is a quick overview of **Ringer Interactive** that will take **less than than 5 minutes!**
 
 ## Getting Started
 
