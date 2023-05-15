@@ -8,27 +8,27 @@ This is a quick overview of **Ringer Interactive** that will take **less than th
 
 ## Getting Started
 
-Register [**new Ringer account**](https://ringerinteractive.com/contact/).
+Your first step is to register a [**new Ringer account**](https://ringerinteractive.com/contact/).
 
 
 ### What you'll need
 
 - Ringer account
-- Mobile device Android or iOS installed Flash App
+- Mobile device with the Android or iOS Ringer App installed
   - Google PlayStore : [Ringer Android App](https://play.google.com/store/apps/details?id=com.ringer)
   - App Store : [Ringer iOS App](https://apps.apple.com/vn/app/ringer-interactive-app/id1628828448?l=vi)
 
-### Add new contact on Admin Portal
+### Add a new contact on Admin Portal
 
 - Login to Ringer Portal
 
 ![login](./img/login.png)
 
-- Add contact to Ringer
+- Add new contact to Ringer
 
 ![phone manage](./img/phone_manage.png)
 
-- Start notify update contact for all device
+- Activate the notification update to send the contact to all devices
 
 ![phone manage](./img/notify.png)
 
@@ -36,7 +36,7 @@ Register [**new Ringer account**](https://ringerinteractive.com/contact/).
 ## Ringer Feature
 
 ### From “Unknown Caller” To Answered Call
- Nearly 90% of consumers don’t answer calls from unknow numbers.
+ Nearly 90% of consumers don’t answer calls from unknown numbers.
 With more than 50.5 billion robocalls made in 2021, can you blame them?
 
 - Problem 1:
@@ -45,14 +45,13 @@ To help protect consumers from telephone fraud, the FCC says, “Don't answer ca
 Because of this, consumers are missing important calls – appointment reminders, school closures, flight delays, test results and more.
 - Problem 3:
 Scammers, spoofers and fraudsters have made it nearly impossible for legitimate businesses to connect with customers.
-
 - Problem 4:
 Even though consumers consider the phone their channel of choice, they don’t trust it.
 
 
-### Our Solution
+### The Ringer Interactive Solution
 - RINGER INTERACTIVE CALLER ID™
-GOES BEYOND BRANDED TO DELIVER TRUSTED CALLS THROUGH A PERSONALIZED, FULL-SCREEN DISPLAY THAT: Quickly identifies your brand so customers can answer the calls they want and need.Significantly increases your answer and first-call resolution rates. Transforms the phone screen into a personalized, actionable message customers won’t ignore, silence or send to voicemail.
+GOES BEYOND BRANDED TO DELIVER TRUSTED CALLS THROUGH A PERSONALIZED, FULL-SCREEN DISPLAY THAT: Quickly identifies your brand so customers can answer the calls they want and need. Significantly increases your answer and first-call resolution rates. Transforms the phone screen into a personalized, actionable message customers won’t ignore, silence or send to voicemail.
 
 ![feature1](./img/feature1.png)
 
