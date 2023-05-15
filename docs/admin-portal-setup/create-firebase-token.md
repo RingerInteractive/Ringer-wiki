@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Create Firbase Token 
+# Create Firebase Token 
 
 :::tip My tip
 You should have a google account and create Firebase Token first
@@ -12,8 +12,8 @@ You should have a google account and create Firebase Token first
 
 ## Account Creation Instructions:
 
-1. Visit https://console.firebase.google.com/ and log in with your desired associate
-company Google account.
+1. Visit https://console.firebase.google.com/ and log in with your desired associated
+ Google account.
 
 ![login](./../img/firebase_account.png)
 
