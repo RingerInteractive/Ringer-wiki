@@ -2,25 +2,25 @@
 sidebar_position: 2
 ---
 
-# iOS Interation
+# iOS Integration
 :::tip My tip
-Follow this step you will build demo of Ringer iOS app
+Follow these steps to build the demo of the Ringer iOS app
 :::
 
 
-## Precondition 
+## Requirements 
 
-##### 1. iOS version above 11 is required to use this sdk.
+##### 1. iOS version 11 or greater is required to use this sdk.
 
 
 
-## How to integrate SDK in your application
+## How to integrate the SDK into your application
 ### Step 1
 Please visit the [Releases](https://github.com/RingerInteractive/Ringer-Interactive-iOS-SDK) to get latest package.
 Add the package using swift package manager in to your project.
 
 ### Step 2
-Firebase is required for this SDK. If there is already an existing Firebase pod in the project, please uninstall it.
+Firebase is required to this SDK. If there is already an existing Firebase pod in the project, please uninstall it.
 
 ### Step 3
 Add delegate (`ringerInteractiveDelegate`) into file to access notifications on the target device.
@@ -43,7 +43,7 @@ Add delegate to self.
 	ringerObject.ringerInteractiveDelegate = self
 ```
 ### Step 6
-Add contact usage description in Info.plist using give lines as below  :-
+Add contact usage description in Info.plist using the following lines:-
 ```	
 	<key>NSContactsUsageDescription</key>
 	<string>Our application needs to your contacts</string>
@@ -75,10 +75,10 @@ Add these methods into AppDelegate to save and update contacts through notificat
 
 
 ## How to use sample app
-##### 1.Download lasted sample app on TestFlight k
+##### 1.Download the latest sample app on TestFlight 
 ##### 2.Build sample app from [Ringer-Sample-App](https://github.com/RingerInteractive/Ringer-SDK-Sample-App-IOS)
 
-##### After install you should grant those required permission 
+##### After install you should grant the required permissions 
 1. Access Contact
 
  ![login](./../img/access_contact.jpg)
