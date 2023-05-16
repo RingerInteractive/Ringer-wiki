@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Intro",
-  "description": "Let's discover Ringer Interactive in less than 5 minutes.",
+  "description": "This is a quick overview of Ringer Interactive that will take less than than 5 minutes!",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

@@ -1,0 +1,15 @@
+{
+  "title": "Mobile Integration",
+  "slug": "/category/mobile-integration",
+  "permalink": "/docs/category/mobile-integration",
+  "navigation": {
+    "previous": {
+      "title": "Admin Portal Guide",
+      "permalink": "/docs/admin-portal-guide/Android"
+    },
+    "next": {
+      "title": "Android Integration",
+      "permalink": "/docs/mobile-integration/Android"
+    }
+  }
+}

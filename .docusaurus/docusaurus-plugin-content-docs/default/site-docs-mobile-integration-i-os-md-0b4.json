@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mobile-integration/iOS",
+  "id": "mobile-integration/iOS",
+  "title": "iOS Integration",
+  "description": "Follow these steps to build the demo of the Ringer iOS app",
+  "source": "@site/docs/mobile-integration/iOS.md",
+  "sourceDirName": "mobile-integration",
+  "slug": "/mobile-integration/iOS",
+  "permalink": "/docs/mobile-integration/iOS",
+  "draft": false,
+  "editUrl": "https://github.com/RingerInteractive/docs/mobile-integration/iOS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android Integration",
+    "permalink": "/docs/mobile-integration/Android"
+  }
+}

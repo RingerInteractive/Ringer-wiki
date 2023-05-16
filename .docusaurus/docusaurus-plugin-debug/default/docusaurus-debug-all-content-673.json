@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/RingerInteractive/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/khuephamm/Desktop/RingerWiki/WikiSite/Ringer-wiki/sidebars.js",
-          "contentPath": "/home/khuephamm/Desktop/RingerWiki/WikiSite/Ringer-wiki/docs",
-          "contentPathLocalized": "/home/khuephamm/Desktop/RingerWiki/WikiSite/Ringer-wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/sidebars.js",
+          "contentPath": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/docs",
+          "contentPathLocalized": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "admin-portal-guide/Android",
@@ -42,15 +42,15 @@
                 "permalink": "/docs/category/admin-portal-guide"
               },
               "next": {
-                "title": "Mobile Interation",
-                "permalink": "/docs/category/mobile-interation"
+                "title": "Mobile Integration",
+                "permalink": "/docs/category/mobile-integration"
               }
             },
             {
               "unversionedId": "admin-portal-setup/add-server-key-to-ringer",
               "id": "admin-portal-setup/add-server-key-to-ringer",
               "title": "Adding Firebase server key",
-              "description": "1. Visit https://console.firebase.google.com/ and log in with your desired associate",
+              "description": "1. Visit https://console.firebase.google.com/ and log in with your associated",
               "source": "@site/docs/admin-portal-setup/add-server-key-to-ringer.md",
               "sourceDirName": "admin-portal-setup",
               "slug": "/admin-portal-setup/add-server-key-to-ringer",
@@ -65,7 +65,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create Firbase Token",
+                "title": "Create Firebase Token",
                 "permalink": "/docs/admin-portal-setup/create-firebase-token"
               },
               "next": {
@@ -76,7 +76,7 @@
             {
               "unversionedId": "admin-portal-setup/create-firebase-token",
               "id": "admin-portal-setup/create-firebase-token",
-              "title": "Create Firbase Token",
+              "title": "Create Firebase Token",
               "description": "You should have a google account and create Firebase Token first",
               "source": "@site/docs/admin-portal-setup/create-firebase-token.md",
               "sourceDirName": "admin-portal-setup",
@@ -104,7 +104,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "Intro",
-              "description": "Let's discover Ringer Interactive in less than 5 minutes.",
+              "description": "This is a quick overview of Ringer Interactive that will take less than than 5 minutes!",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -124,16 +124,16 @@
               }
             },
             {
-              "unversionedId": "mobile-interation/Android",
-              "id": "mobile-interation/Android",
-              "title": "Android Interation",
-              "description": "Follow this step you will build demo of Ringer Android app",
-              "source": "@site/docs/mobile-interation/Android.md",
-              "sourceDirName": "mobile-interation",
-              "slug": "/mobile-interation/Android",
-              "permalink": "/docs/mobile-interation/Android",
+              "unversionedId": "mobile-integration/Android",
+              "id": "mobile-integration/Android",
+              "title": "Android Integration",
+              "description": "Follow this step by step guide to build the demo app for Ringer Interactive on Android",
+              "source": "@site/docs/mobile-integration/Android.md",
+              "sourceDirName": "mobile-integration",
+              "slug": "/mobile-integration/Android",
+              "permalink": "/docs/mobile-integration/Android",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/mobile-interation/Android.md",
+              "editUrl": "https://github.com/RingerInteractive/docs/mobile-integration/Android.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -142,25 +142,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Mobile Interation",
-                "permalink": "/docs/category/mobile-interation"
+                "title": "Mobile Integration",
+                "permalink": "/docs/category/mobile-integration"
               },
               "next": {
-                "title": "iOS Interation",
-                "permalink": "/docs/mobile-interation/iOS"
+                "title": "iOS Integration",
+                "permalink": "/docs/mobile-integration/iOS"
               }
             },
             {
-              "unversionedId": "mobile-interation/iOS",
-              "id": "mobile-interation/iOS",
-              "title": "iOS Interation",
-              "description": "Follow this step you will build demo of Ringer iOS app",
-              "source": "@site/docs/mobile-interation/iOS.md",
-              "sourceDirName": "mobile-interation",
-              "slug": "/mobile-interation/iOS",
-              "permalink": "/docs/mobile-interation/iOS",
+              "unversionedId": "mobile-integration/iOS",
+              "id": "mobile-integration/iOS",
+              "title": "iOS Integration",
+              "description": "Follow these steps to build the demo of the Ringer iOS app",
+              "source": "@site/docs/mobile-integration/iOS.md",
+              "sourceDirName": "mobile-integration",
+              "slug": "/mobile-integration/iOS",
+              "permalink": "/docs/mobile-integration/iOS",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/mobile-interation/iOS.md",
+              "editUrl": "https://github.com/RingerInteractive/docs/mobile-integration/iOS.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -169,8 +169,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Android Interation",
-                "permalink": "/docs/mobile-interation/Android"
+                "title": "Android Integration",
+                "permalink": "/docs/mobile-integration/Android"
               }
             }
           ],
@@ -222,23 +222,23 @@
               },
               {
                 "type": "category",
-                "label": "Mobile Interation",
+                "label": "Mobile Integration",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "mobile-interation/Android"
+                    "id": "mobile-integration/Android"
                   },
                   {
                     "type": "doc",
-                    "id": "mobile-interation/iOS"
+                    "id": "mobile-integration/iOS"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/mobile-interation",
-                  "permalink": "/docs/category/mobile-interation"
+                  "slug": "/category/mobile-integration",
+                  "permalink": "/docs/category/mobile-integration"
                 }
               }
             ]

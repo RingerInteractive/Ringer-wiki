@@ -1,7 +1,7 @@
 {
   "unversionedId": "admin-portal-setup/create-firebase-token",
   "id": "admin-portal-setup/create-firebase-token",
-  "title": "Create Firbase Token",
+  "title": "Create Firebase Token",
   "description": "You should have a google account and create Firebase Token first",
   "source": "@site/docs/admin-portal-setup/create-firebase-token.md",
   "sourceDirName": "admin-portal-setup",

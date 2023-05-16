@@ -6,9 +6,9 @@
 export default {
   "title": "Ringer Interactive",
   "tagline": "Full-Screen Branded Calling Ensures Customers Never Miss Your Call",
-  "favicon": "img/favicon.png",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
+  "favicon": "img/favicon.png",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
@@ -26,11 +26,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/khuephamm/Desktop/RingerWiki/WikiSite/Ringer-wiki/sidebars.js",
+          "sidebarPath": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/sidebars.js",
           "editUrl": "https://github.com/RingerInteractive"
         },
         "theme": {
-          "customCss": "/home/khuephamm/Desktop/RingerWiki/WikiSite/Ringer-wiki/src/css/custom.css"
+          "customCss": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/src/css/custom.css"
         }
       }
     ]

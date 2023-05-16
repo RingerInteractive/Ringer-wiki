@@ -31,13 +31,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "mobile-interation/Android",
-              "path": "/docs/mobile-interation/Android",
+              "id": "mobile-integration/Android",
+              "path": "/docs/mobile-integration/Android",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "mobile-interation/iOS",
-              "path": "/docs/mobile-interation/iOS",
+              "id": "mobile-integration/iOS",
+              "path": "/docs/mobile-integration/iOS",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,8 +51,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/mobile-interation",
-              "path": "/docs/category/mobile-interation",
+              "id": "/category/mobile-integration",
+              "path": "/docs/category/mobile-integration",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -2,7 +2,7 @@
   "unversionedId": "admin-portal-setup/add-server-key-to-ringer",
   "id": "admin-portal-setup/add-server-key-to-ringer",
   "title": "Adding Firebase server key",
-  "description": "1. Visit https://console.firebase.google.com/ and log in with your desired associate",
+  "description": "1. Visit https://console.firebase.google.com/ and log in with your associated",
   "source": "@site/docs/admin-portal-setup/add-server-key-to-ringer.md",
   "sourceDirName": "admin-portal-setup",
   "slug": "/admin-portal-setup/add-server-key-to-ringer",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create Firbase Token",
+    "title": "Create Firebase Token",
     "permalink": "/docs/admin-portal-setup/create-firebase-token"
   },
   "next": {

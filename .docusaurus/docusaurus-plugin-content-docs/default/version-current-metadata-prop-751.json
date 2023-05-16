@@ -23,7 +23,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Create Firbase Token",
+            "label": "Create Firebase Token",
             "href": "/docs/admin-portal-setup/create-firebase-token",
             "docId": "admin-portal-setup/create-firebase-token"
           },
@@ -53,24 +53,24 @@
       },
       {
         "type": "category",
-        "label": "Mobile Interation",
+        "label": "Mobile Integration",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Android Interation",
-            "href": "/docs/mobile-interation/Android",
-            "docId": "mobile-interation/Android"
+            "label": "Android Integration",
+            "href": "/docs/mobile-integration/Android",
+            "docId": "mobile-integration/Android"
           },
           {
             "type": "link",
-            "label": "iOS Interation",
-            "href": "/docs/mobile-interation/iOS",
-            "docId": "mobile-interation/iOS"
+            "label": "iOS Integration",
+            "href": "/docs/mobile-integration/iOS",
+            "docId": "mobile-integration/iOS"
           }
         ],
-        "href": "/docs/category/mobile-interation"
+        "href": "/docs/category/mobile-integration"
       }
     ]
   },
@@ -84,31 +84,31 @@
     "admin-portal-setup/add-server-key-to-ringer": {
       "id": "admin-portal-setup/add-server-key-to-ringer",
       "title": "Adding Firebase server key",
-      "description": "1. Visit https://console.firebase.google.com/ and log in with your desired associate",
+      "description": "1. Visit https://console.firebase.google.com/ and log in with your associated",
       "sidebar": "tutorialSidebar"
     },
     "admin-portal-setup/create-firebase-token": {
       "id": "admin-portal-setup/create-firebase-token",
-      "title": "Create Firbase Token",
+      "title": "Create Firebase Token",
       "description": "You should have a google account and create Firebase Token first",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
       "id": "intro",
       "title": "Intro",
-      "description": "Let's discover Ringer Interactive in less than 5 minutes.",
+      "description": "This is a quick overview of Ringer Interactive that will take less than than 5 minutes!",
       "sidebar": "tutorialSidebar"
     },
-    "mobile-interation/Android": {
-      "id": "mobile-interation/Android",
-      "title": "Android Interation",
-      "description": "Follow this step you will build demo of Ringer Android app",
+    "mobile-integration/Android": {
+      "id": "mobile-integration/Android",
+      "title": "Android Integration",
+      "description": "Follow this step by step guide to build the demo app for Ringer Interactive on Android",
       "sidebar": "tutorialSidebar"
     },
-    "mobile-interation/iOS": {
-      "id": "mobile-interation/iOS",
-      "title": "iOS Interation",
-      "description": "Follow this step you will build demo of Ringer iOS app",
+    "mobile-integration/iOS": {
+      "id": "mobile-integration/iOS",
+      "title": "iOS Integration",
+      "description": "Follow these steps to build the demo of the Ringer iOS app",
       "sidebar": "tutorialSidebar"
     }
   }
