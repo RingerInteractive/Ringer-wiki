@@ -1,246 +1,246 @@
 {
-  "/__docusaurus/debug-df5": {
+  "/Ringer-wiki/__docusaurus/debug-f40": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     }
   },
-  "/__docusaurus/debug/config-9c3": {
+  "/Ringer-wiki/__docusaurus/debug/config-d2d": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     }
   },
-  "/__docusaurus/debug/content-061": {
+  "/Ringer-wiki/__docusaurus/debug/content-f48": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---ringer-wiki-docusaurus-debug-content-246-7c4"
   },
-  "/__docusaurus/debug/globalData-470": {
+  "/Ringer-wiki/__docusaurus/debug/globalData-606": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     }
   },
-  "/__docusaurus/debug/metadata-041": {
+  "/Ringer-wiki/__docusaurus/debug/metadata-c36": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     }
   },
-  "/__docusaurus/debug/registry-e7a": {
+  "/Ringer-wiki/__docusaurus/debug/registry-a1b": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     }
   },
-  "/__docusaurus/debug/routes-4ce": {
+  "/Ringer-wiki/__docusaurus/debug/routes-beb": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debuga-71-703"
+      "plugin": "plugin---ringer-wiki-docusaurus-debug-1-ab-4d4"
     }
   },
-  "/blog-4c8": {
+  "/Ringer-wiki/blog-780": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ringer-wiki-blog-766-dd4"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---ringer-wiki-blogf-4-f-b51"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ringer-wiki-blog-871-6cd"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ringer-wiki-blog-925-b26"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---ringer-wiki-blog-9-af-0c0"
   },
-  "/blog/archive-e07": {
+  "/Ringer-wiki/blog/archive-38d": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---ringer-wiki-blog-archivedf-0-3f4"
   },
-  "/blog/first-blog-post-e4c": {
+  "/Ringer-wiki/blog/first-blog-post-82f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
+    "content": "content---ringer-wiki-blog-first-blog-poste-27-e2e"
   },
-  "/blog/long-blog-post-17b": {
+  "/Ringer-wiki/blog/long-blog-post-ff1": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
+    "content": "content---ringer-wiki-blog-long-blog-post-736-c6c"
   },
-  "/blog/mdx-blog-post-9a3": {
+  "/Ringer-wiki/blog/mdx-blog-post-667": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
+    "content": "content---ringer-wiki-blog-mdx-blog-post-593-c09"
   },
-  "/blog/tags-691": {
+  "/Ringer-wiki/blog/tags-975": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
+    "tags": "tags---ringer-wiki-blog-tags-4-b-9-e64"
   },
-  "/blog/tags/docusaurus-72f": {
+  "/Ringer-wiki/blog/tags/docusaurus-987": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ringer-wiki-blog-766-dd4"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---ringer-wiki-blogf-4-f-b51"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ringer-wiki-blog-871-6cd"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ringer-wiki-blog-925-b26"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "tag---ringer-wiki-blog-tags-docusaurus-08-b-24b",
+    "listMetadata": "listMetadata---ringer-wiki-blog-tags-docusaurus-4-a-6-0cd"
   },
-  "/blog/tags/facebook-427": {
+  "/Ringer-wiki/blog/tags/facebook-5ea": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ringer-wiki-blog-766-dd4"
       }
     ],
-    "tag": "tag---blog-tags-facebook-031-c52",
-    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+    "tag": "tag---ringer-wiki-blog-tags-facebook-9-c-0-35b",
+    "listMetadata": "listMetadata---ringer-wiki-blog-tags-facebookafa-ea0"
   },
-  "/blog/tags/hello-159": {
+  "/Ringer-wiki/blog/tags/hello-f27": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ringer-wiki-blog-766-dd4"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ringer-wiki-blog-871-6cd"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "tag---ringer-wiki-blog-tags-hello-3-d-4-2c8",
+    "listMetadata": "listMetadata---ringer-wiki-blog-tags-hellod-84-62f"
   },
-  "/blog/tags/hola-06e": {
+  "/Ringer-wiki/blog/tags/hola-233": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ringer-wiki-blog-925-b26"
       }
     ],
-    "tag": "tag---blog-tags-holae-16-18a",
-    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+    "tag": "tag---ringer-wiki-blog-tags-hola-532-d2e",
+    "listMetadata": "listMetadata---ringer-wiki-blog-tags-holad-11-8a2"
   },
-  "/blog/welcome-0c5": {
+  "/Ringer-wiki/blog/welcome-7bf": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blog-59-a-49c"
+      "plugin": "plugin---ringer-wiki-blog-746-07b"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---ringer-wiki-blog-814-060",
+    "content": "content---ringer-wiki-blog-welcomed-9-f-f50"
   },
-  "/markdown-features-c6e": {
+  "/Ringer-wiki/markdown-features-f4e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-features-571-37f"
+      "plugin": "plugin---ringer-wiki-markdown-features-163-0f8"
     },
-    "content": "content---markdown-features-40-e-a21"
+    "content": "content---ringer-wiki-markdown-features-40-e-7cb"
   },
-  "/markdown-page-75d": {
+  "/Ringer-wiki/markdown-page-5ee": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-features-571-37f"
+      "plugin": "plugin---ringer-wiki-markdown-features-163-0f8"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---ringer-wiki-markdown-page-393-66c"
   },
-  "/docs-af7": {
+  "/Ringer-wiki/docs-bfa": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docsc-4-d-82b"
+      "plugin": "plugin---ringer-wiki-docs-885-19e"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---ringer-wiki-docs-935-9d3"
   },
-  "/docs/admin-portal-guide/Android-f64": {
+  "/Ringer-wiki/docs/admin-portal-guide/Android-b5a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-admin-portal-guide-androidec-6-c59"
+    "content": "content---ringer-wiki-docs-admin-portal-guide-androidec-6-d2c"
   },
-  "/docs/admin-portal-setup/add-server-key-to-ringer-923": {
+  "/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer-9a3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-admin-portal-setup-add-server-key-to-ringera-6-c-b14"
+    "content": "content---ringer-wiki-docs-admin-portal-setup-add-server-key-to-ringera-6-c-dd4"
   },
-  "/docs/admin-portal-setup/create-firebase-token-af5": {
+  "/Ringer-wiki/docs/admin-portal-setup/create-firebase-token-bd8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-admin-portal-setup-create-firebase-token-27-d-0c7"
+    "content": "content---ringer-wiki-docs-admin-portal-setup-create-firebase-token-27-d-90c"
   },
-  "/docs/category/admin-portal-firebase-setup-cf0": {
+  "/Ringer-wiki/docs/category/admin-portal-firebase-setup-2d5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-admin-portal-firebase-setupfdd-c52"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ringer-wiki-docs-category-admin-portal-firebase-setupd-49-b29"
   },
-  "/docs/category/admin-portal-guide-59d": {
+  "/Ringer-wiki/docs/category/admin-portal-guide-9ec": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-admin-portal-guide-9-ee-b94"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ringer-wiki-docs-category-admin-portal-guide-0-eb-698"
   },
-  "/docs/category/mobile-integration-25d": {
+  "/Ringer-wiki/docs/category/mobile-integration-0b1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-mobile-integrationd-18-3f9"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---ringer-wiki-docs-category-mobile-integrationf-13-070"
   },
-  "/docs/intro-aed": {
+  "/Ringer-wiki/docs/intro-8b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---ringer-wiki-docs-intro-0-e-3-eac"
   },
-  "/docs/mobile-integration/Android-f95": {
+  "/Ringer-wiki/docs/mobile-integration/Android-072": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mobile-integration-androidc-1-c-000"
+    "content": "content---ringer-wiki-docs-mobile-integration-androidc-1-c-09c"
   },
-  "/docs/mobile-integration/iOS-1d9": {
+  "/Ringer-wiki/docs/mobile-integration/iOS-413": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-mobile-integration-i-os-0-b-4-d9c"
+    "content": "content---ringer-wiki-docs-mobile-integration-i-os-0-b-4-ad3"
   },
-  "/-c7f": {
+  "/Ringer-wiki/-beb": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-features-571-37f"
+      "plugin": "plugin---ringer-wiki-markdown-features-163-0f8"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---ringer-wiki-5-e-9-e60"
   }
 }

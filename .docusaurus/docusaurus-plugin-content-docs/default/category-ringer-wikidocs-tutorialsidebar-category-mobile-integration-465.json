@@ -1,0 +1,15 @@
+{
+  "title": "Mobile Integration",
+  "slug": "/category/mobile-integration",
+  "permalink": "/Ringer-wiki/docs/category/mobile-integration",
+  "navigation": {
+    "previous": {
+      "title": "Admin Portal Guide",
+      "permalink": "/Ringer-wiki/docs/admin-portal-guide/Android"
+    },
+    "next": {
+      "title": "Android Integration",
+      "permalink": "/Ringer-wiki/docs/mobile-integration/Android"
+    }
+  }
+}

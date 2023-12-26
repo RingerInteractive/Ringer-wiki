@@ -6,9 +6,9 @@
   "source": "@site/docs/mobile-integration/Android.md",
   "sourceDirName": "mobile-integration",
   "slug": "/mobile-integration/Android",
-  "permalink": "/docs/mobile-integration/Android",
+  "permalink": "/Ringer-wiki/docs/mobile-integration/Android",
   "draft": false,
-  "editUrl": "https://github.com/RingerInteractive/docs/mobile-integration/Android.md",
+  "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/mobile-integration/Android.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Mobile Integration",
-    "permalink": "/docs/category/mobile-integration"
+    "permalink": "/Ringer-wiki/docs/category/mobile-integration"
   },
   "next": {
     "title": "iOS Integration",
-    "permalink": "/docs/mobile-integration/iOS"
+    "permalink": "/Ringer-wiki/docs/mobile-integration/iOS"
   }
 }
