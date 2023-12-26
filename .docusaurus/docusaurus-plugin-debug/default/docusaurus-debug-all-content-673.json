@@ -9,27 +9,27 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/RingerInteractive/docs",
-          "editUrlLocalized": "https://github.com/RingerInteractive/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/Ringer-wiki/docs",
+          "tagsPath": "/Ringer-wiki/docs/tags",
+          "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs",
+          "editUrlLocalized": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/sidebars.js",
-          "contentPath": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/docs",
-          "contentPathLocalized": "/home/khuephamm/Desktop/RingerWork/Ringer Wiki/Ringer-wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/khuepham/Desktop/Ringer/RIngerWiki/Ringer-wiki/sidebars.js",
+          "contentPath": "/Users/khuepham/Desktop/Ringer/RIngerWiki/Ringer-wiki/docs",
+          "contentPathLocalized": "/Users/khuepham/Desktop/Ringer/RIngerWiki/Ringer-wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "admin-portal-guide/Android",
               "id": "admin-portal-guide/Android",
               "title": "Admin Portal Guide",
-              "description": "Follow this step you will build demo of Ringer Android app",
+              "description": "Web Admin Console Guide",
               "source": "@site/docs/admin-portal-guide/Android.md",
               "sourceDirName": "admin-portal-guide",
               "slug": "/admin-portal-guide/Android",
-              "permalink": "/docs/admin-portal-guide/Android",
+              "permalink": "/Ringer-wiki/docs/admin-portal-guide/Android",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/admin-portal-guide/Android.md",
+              "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/admin-portal-guide/Android.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Admin Portal Guide",
-                "permalink": "/docs/category/admin-portal-guide"
+                "permalink": "/Ringer-wiki/docs/category/admin-portal-guide"
               },
               "next": {
                 "title": "Mobile Integration",
-                "permalink": "/docs/category/mobile-integration"
+                "permalink": "/Ringer-wiki/docs/category/mobile-integration"
               }
             },
             {
@@ -54,9 +54,9 @@
               "source": "@site/docs/admin-portal-setup/add-server-key-to-ringer.md",
               "sourceDirName": "admin-portal-setup",
               "slug": "/admin-portal-setup/add-server-key-to-ringer",
-              "permalink": "/docs/admin-portal-setup/add-server-key-to-ringer",
+              "permalink": "/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/admin-portal-setup/add-server-key-to-ringer.md",
+              "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/admin-portal-setup/add-server-key-to-ringer.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create Firebase Token",
-                "permalink": "/docs/admin-portal-setup/create-firebase-token"
+                "permalink": "/Ringer-wiki/docs/admin-portal-setup/create-firebase-token"
               },
               "next": {
                 "title": "Admin Portal Guide",
-                "permalink": "/docs/category/admin-portal-guide"
+                "permalink": "/Ringer-wiki/docs/category/admin-portal-guide"
               }
             },
             {
@@ -81,9 +81,9 @@
               "source": "@site/docs/admin-portal-setup/create-firebase-token.md",
               "sourceDirName": "admin-portal-setup",
               "slug": "/admin-portal-setup/create-firebase-token",
-              "permalink": "/docs/admin-portal-setup/create-firebase-token",
+              "permalink": "/Ringer-wiki/docs/admin-portal-setup/create-firebase-token",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/admin-portal-setup/create-firebase-token.md",
+              "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/admin-portal-setup/create-firebase-token.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -93,11 +93,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Admin Portal FireBase Setup",
-                "permalink": "/docs/category/admin-portal-firebase-setup"
+                "permalink": "/Ringer-wiki/docs/category/admin-portal-firebase-setup"
               },
               "next": {
                 "title": "Adding Firebase server key",
-                "permalink": "/docs/admin-portal-setup/add-server-key-to-ringer"
+                "permalink": "/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer"
               }
             },
             {
@@ -108,9 +108,9 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/Ringer-wiki/docs/intro",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/intro.md",
+              "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -120,7 +120,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Admin Portal FireBase Setup",
-                "permalink": "/docs/category/admin-portal-firebase-setup"
+                "permalink": "/Ringer-wiki/docs/category/admin-portal-firebase-setup"
               }
             },
             {
@@ -131,9 +131,9 @@
               "source": "@site/docs/mobile-integration/Android.md",
               "sourceDirName": "mobile-integration",
               "slug": "/mobile-integration/Android",
-              "permalink": "/docs/mobile-integration/Android",
+              "permalink": "/Ringer-wiki/docs/mobile-integration/Android",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/mobile-integration/Android.md",
+              "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/mobile-integration/Android.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -143,11 +143,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Mobile Integration",
-                "permalink": "/docs/category/mobile-integration"
+                "permalink": "/Ringer-wiki/docs/category/mobile-integration"
               },
               "next": {
                 "title": "iOS Integration",
-                "permalink": "/docs/mobile-integration/iOS"
+                "permalink": "/Ringer-wiki/docs/mobile-integration/iOS"
               }
             },
             {
@@ -158,9 +158,9 @@
               "source": "@site/docs/mobile-integration/iOS.md",
               "sourceDirName": "mobile-integration",
               "slug": "/mobile-integration/iOS",
-              "permalink": "/docs/mobile-integration/iOS",
+              "permalink": "/Ringer-wiki/docs/mobile-integration/iOS",
               "draft": false,
-              "editUrl": "https://github.com/RingerInteractive/docs/mobile-integration/iOS.md",
+              "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/mobile-integration/iOS.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -170,7 +170,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Android Integration",
-                "permalink": "/docs/mobile-integration/Android"
+                "permalink": "/Ringer-wiki/docs/mobile-integration/Android"
               }
             }
           ],
@@ -200,7 +200,7 @@
                   "type": "generated-index",
                   "description": "Admin Portal FireBase Setup",
                   "slug": "/category/admin-portal-firebase-setup",
-                  "permalink": "/docs/category/admin-portal-firebase-setup"
+                  "permalink": "/Ringer-wiki/docs/category/admin-portal-firebase-setup"
                 }
               },
               {
@@ -217,7 +217,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/admin-portal-guide",
-                  "permalink": "/docs/category/admin-portal-guide"
+                  "permalink": "/Ringer-wiki/docs/category/admin-portal-guide"
                 }
               },
               {
@@ -238,7 +238,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/mobile-integration",
-                  "permalink": "/docs/category/mobile-integration"
+                  "permalink": "/Ringer-wiki/docs/category/mobile-integration"
                 }
               }
             ]
@@ -254,7 +254,8 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/Ringer-wiki/blog/welcome",
+            "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -263,15 +264,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/Ringer-wiki/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/Ringer-wiki/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Ringer-wiki/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -307,7 +308,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/Ringer-wiki/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -315,7 +316,8 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/Ringer-wiki/blog/mdx-blog-post",
+            "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -324,7 +326,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Ringer-wiki/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -350,11 +352,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/Ringer-wiki/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/Ringer-wiki/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -362,7 +364,8 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/Ringer-wiki/blog/long-blog-post",
+            "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -371,11 +374,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/Ringer-wiki/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Ringer-wiki/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -400,11 +403,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/Ringer-wiki/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/Ringer-wiki/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -412,7 +415,8 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/Ringer-wiki/blog/first-blog-post",
+            "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -421,11 +425,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/Ringer-wiki/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/Ringer-wiki/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -456,7 +460,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/Ringer-wiki/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -471,7 +475,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/Ringer-wiki/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -482,19 +486,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/Ringer-wiki/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/Ringer-wiki/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/Ringer-wiki/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -505,13 +509,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/Ringer-wiki/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/Ringer-wiki/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -519,7 +523,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/Ringer-wiki/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -530,7 +534,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/Ringer-wiki/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -538,7 +542,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/Ringer-wiki/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -548,7 +552,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/Ringer-wiki/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -559,19 +563,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/Ringer-wiki/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/Ringer-wiki/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/Ringer-wiki/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -583,19 +587,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/Ringer-wiki/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/Ringer-wiki/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-features",
+        "permalink": "/Ringer-wiki/markdown-features",
         "source": "@site/src/pages/markdown-features.mdx",
         "title": "Markdown Features",
         "description": "Docusaurus supports Markdown and a few additional features.",
@@ -605,7 +609,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/Ringer-wiki/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Create a Page",
         "description": "Add Markdown or React files to src/pages to create a standalone page:",

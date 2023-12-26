@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Intro",
-        "href": "/docs/intro",
+        "href": "/Ringer-wiki/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,17 +24,17 @@
           {
             "type": "link",
             "label": "Create Firebase Token",
-            "href": "/docs/admin-portal-setup/create-firebase-token",
+            "href": "/Ringer-wiki/docs/admin-portal-setup/create-firebase-token",
             "docId": "admin-portal-setup/create-firebase-token"
           },
           {
             "type": "link",
             "label": "Adding Firebase server key",
-            "href": "/docs/admin-portal-setup/add-server-key-to-ringer",
+            "href": "/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer",
             "docId": "admin-portal-setup/add-server-key-to-ringer"
           }
         ],
-        "href": "/docs/category/admin-portal-firebase-setup"
+        "href": "/Ringer-wiki/docs/category/admin-portal-firebase-setup"
       },
       {
         "type": "category",
@@ -45,11 +45,11 @@
           {
             "type": "link",
             "label": "Admin Portal Guide",
-            "href": "/docs/admin-portal-guide/Android",
+            "href": "/Ringer-wiki/docs/admin-portal-guide/Android",
             "docId": "admin-portal-guide/Android"
           }
         ],
-        "href": "/docs/category/admin-portal-guide"
+        "href": "/Ringer-wiki/docs/category/admin-portal-guide"
       },
       {
         "type": "category",
@@ -60,17 +60,17 @@
           {
             "type": "link",
             "label": "Android Integration",
-            "href": "/docs/mobile-integration/Android",
+            "href": "/Ringer-wiki/docs/mobile-integration/Android",
             "docId": "mobile-integration/Android"
           },
           {
             "type": "link",
             "label": "iOS Integration",
-            "href": "/docs/mobile-integration/iOS",
+            "href": "/Ringer-wiki/docs/mobile-integration/iOS",
             "docId": "mobile-integration/iOS"
           }
         ],
-        "href": "/docs/category/mobile-integration"
+        "href": "/Ringer-wiki/docs/category/mobile-integration"
       }
     ]
   },
@@ -78,7 +78,7 @@
     "admin-portal-guide/Android": {
       "id": "admin-portal-guide/Android",
       "title": "Admin Portal Guide",
-      "description": "Follow this step you will build demo of Ringer Android app",
+      "description": "Web Admin Console Guide",
       "sidebar": "tutorialSidebar"
     },
     "admin-portal-setup/add-server-key-to-ringer": {

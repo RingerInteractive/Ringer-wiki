@@ -6,9 +6,9 @@
   "source": "@site/docs/admin-portal-setup/add-server-key-to-ringer.md",
   "sourceDirName": "admin-portal-setup",
   "slug": "/admin-portal-setup/add-server-key-to-ringer",
-  "permalink": "/docs/admin-portal-setup/add-server-key-to-ringer",
+  "permalink": "/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer",
   "draft": false,
-  "editUrl": "https://github.com/RingerInteractive/docs/admin-portal-setup/add-server-key-to-ringer.md",
+  "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/admin-portal-setup/add-server-key-to-ringer.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create Firebase Token",
-    "permalink": "/docs/admin-portal-setup/create-firebase-token"
+    "permalink": "/Ringer-wiki/docs/admin-portal-setup/create-firebase-token"
   },
   "next": {
     "title": "Admin Portal Guide",
-    "permalink": "/docs/category/admin-portal-guide"
+    "permalink": "/Ringer-wiki/docs/category/admin-portal-guide"
   }
 }

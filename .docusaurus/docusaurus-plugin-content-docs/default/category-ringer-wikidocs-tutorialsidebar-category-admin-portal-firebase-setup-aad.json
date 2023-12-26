@@ -1,0 +1,16 @@
+{
+  "title": "Admin Portal FireBase Setup",
+  "description": "Admin Portal FireBase Setup",
+  "slug": "/category/admin-portal-firebase-setup",
+  "permalink": "/Ringer-wiki/docs/category/admin-portal-firebase-setup",
+  "navigation": {
+    "previous": {
+      "title": "Intro",
+      "permalink": "/Ringer-wiki/docs/intro"
+    },
+    "next": {
+      "title": "Create Firebase Token",
+      "permalink": "/Ringer-wiki/docs/admin-portal-setup/create-firebase-token"
+    }
+  }
+}

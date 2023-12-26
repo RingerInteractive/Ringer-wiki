@@ -6,9 +6,9 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/Ringer-wiki/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/RingerInteractive/docs/intro.md",
+  "editUrl": "https://github.com/RingerInteractive/Ringer-wiki/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Admin Portal FireBase Setup",
-    "permalink": "/docs/category/admin-portal-firebase-setup"
+    "permalink": "/Ringer-wiki/docs/category/admin-portal-firebase-setup"
   }
 }

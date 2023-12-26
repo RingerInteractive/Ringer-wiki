@@ -3,168 +3,168 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'df5'),
+    path: '/Ringer-wiki/__docusaurus/debug',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug', 'f40'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '9c3'),
+    path: '/Ringer-wiki/__docusaurus/debug/config',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug/config', 'd2d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '061'),
+    path: '/Ringer-wiki/__docusaurus/debug/content',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug/content', 'f48'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '470'),
+    path: '/Ringer-wiki/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug/globalData', '606'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '041'),
+    path: '/Ringer-wiki/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug/metadata', 'c36'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'e7a'),
+    path: '/Ringer-wiki/__docusaurus/debug/registry',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug/registry', 'a1b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '4ce'),
+    path: '/Ringer-wiki/__docusaurus/debug/routes',
+    component: ComponentCreator('/Ringer-wiki/__docusaurus/debug/routes', 'beb'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '4c8'),
+    path: '/Ringer-wiki/blog',
+    component: ComponentCreator('/Ringer-wiki/blog', '780'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'e07'),
+    path: '/Ringer-wiki/blog/archive',
+    component: ComponentCreator('/Ringer-wiki/blog/archive', '38d'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'e4c'),
+    path: '/Ringer-wiki/blog/first-blog-post',
+    component: ComponentCreator('/Ringer-wiki/blog/first-blog-post', '82f'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '17b'),
+    path: '/Ringer-wiki/blog/long-blog-post',
+    component: ComponentCreator('/Ringer-wiki/blog/long-blog-post', 'ff1'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '9a3'),
+    path: '/Ringer-wiki/blog/mdx-blog-post',
+    component: ComponentCreator('/Ringer-wiki/blog/mdx-blog-post', '667'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '691'),
+    path: '/Ringer-wiki/blog/tags',
+    component: ComponentCreator('/Ringer-wiki/blog/tags', '975'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '72f'),
+    path: '/Ringer-wiki/blog/tags/docusaurus',
+    component: ComponentCreator('/Ringer-wiki/blog/tags/docusaurus', '987'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '427'),
+    path: '/Ringer-wiki/blog/tags/facebook',
+    component: ComponentCreator('/Ringer-wiki/blog/tags/facebook', '5ea'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '159'),
+    path: '/Ringer-wiki/blog/tags/hello',
+    component: ComponentCreator('/Ringer-wiki/blog/tags/hello', 'f27'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '06e'),
+    path: '/Ringer-wiki/blog/tags/hola',
+    component: ComponentCreator('/Ringer-wiki/blog/tags/hola', '233'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '0c5'),
+    path: '/Ringer-wiki/blog/welcome',
+    component: ComponentCreator('/Ringer-wiki/blog/welcome', '7bf'),
     exact: true
   },
   {
-    path: '/markdown-features',
-    component: ComponentCreator('/markdown-features', 'c6e'),
+    path: '/Ringer-wiki/markdown-features',
+    component: ComponentCreator('/Ringer-wiki/markdown-features', 'f4e'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '75d'),
+    path: '/Ringer-wiki/markdown-page',
+    component: ComponentCreator('/Ringer-wiki/markdown-page', '5ee'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'af7'),
+    path: '/Ringer-wiki/docs',
+    component: ComponentCreator('/Ringer-wiki/docs', 'bfa'),
     routes: [
       {
-        path: '/docs/admin-portal-guide/Android',
-        component: ComponentCreator('/docs/admin-portal-guide/Android', 'f64'),
+        path: '/Ringer-wiki/docs/admin-portal-guide/Android',
+        component: ComponentCreator('/Ringer-wiki/docs/admin-portal-guide/Android', 'b5a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/admin-portal-setup/add-server-key-to-ringer',
-        component: ComponentCreator('/docs/admin-portal-setup/add-server-key-to-ringer', '923'),
+        path: '/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer',
+        component: ComponentCreator('/Ringer-wiki/docs/admin-portal-setup/add-server-key-to-ringer', '9a3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/admin-portal-setup/create-firebase-token',
-        component: ComponentCreator('/docs/admin-portal-setup/create-firebase-token', 'af5'),
+        path: '/Ringer-wiki/docs/admin-portal-setup/create-firebase-token',
+        component: ComponentCreator('/Ringer-wiki/docs/admin-portal-setup/create-firebase-token', 'bd8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/admin-portal-firebase-setup',
-        component: ComponentCreator('/docs/category/admin-portal-firebase-setup', 'cf0'),
+        path: '/Ringer-wiki/docs/category/admin-portal-firebase-setup',
+        component: ComponentCreator('/Ringer-wiki/docs/category/admin-portal-firebase-setup', '2d5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/admin-portal-guide',
-        component: ComponentCreator('/docs/category/admin-portal-guide', '59d'),
+        path: '/Ringer-wiki/docs/category/admin-portal-guide',
+        component: ComponentCreator('/Ringer-wiki/docs/category/admin-portal-guide', '9ec'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/mobile-integration',
-        component: ComponentCreator('/docs/category/mobile-integration', '25d'),
+        path: '/Ringer-wiki/docs/category/mobile-integration',
+        component: ComponentCreator('/Ringer-wiki/docs/category/mobile-integration', '0b1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/Ringer-wiki/docs/intro',
+        component: ComponentCreator('/Ringer-wiki/docs/intro', '8b6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/mobile-integration/Android',
-        component: ComponentCreator('/docs/mobile-integration/Android', 'f95'),
+        path: '/Ringer-wiki/docs/mobile-integration/Android',
+        component: ComponentCreator('/Ringer-wiki/docs/mobile-integration/Android', '072'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/mobile-integration/iOS',
-        component: ComponentCreator('/docs/mobile-integration/iOS', '1d9'),
+        path: '/Ringer-wiki/docs/mobile-integration/iOS',
+        component: ComponentCreator('/Ringer-wiki/docs/mobile-integration/iOS', '413'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'c7f'),
+    path: '/Ringer-wiki/',
+    component: ComponentCreator('/Ringer-wiki/', 'beb'),
     exact: true
   },
   {
