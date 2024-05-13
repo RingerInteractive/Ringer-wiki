@@ -10,7 +10,7 @@ Follow these steps to build the demo of the Ringer iOS app
 
 ## Requirements 
 
-##### 1. iOS version 11 or greater is required to use this sdk.
+##### 1. iOS version 14 or greater is required to use this sdk.
 
 
 
