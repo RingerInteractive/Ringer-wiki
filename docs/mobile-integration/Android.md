@@ -10,7 +10,7 @@ Follow this step by step guide to build the demo app for Ringer Interactive on A
 
 ## Requirements 
 
-##### 1. Minimum SDK Version Supported is 7 Nougat
+##### 1. Minimum SDK Version Supported is 9
 ##### 2. You have to use Hilt (Dependency Injection) to use this SDK
 
 
